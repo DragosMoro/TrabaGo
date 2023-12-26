@@ -1,6 +1,6 @@
 [submodule "trabago-backend"]
 	path = trabago-backend
-	url = ./trabago-backend
+	url = https://github.com/DragosMoro/trabago-backend
 [submodule "trabago-frontend"]
 	path = trabago-frontend
-	url = ./trabago-frontend
+	url = https://github.com/DragosMoro/trabago-frontend
