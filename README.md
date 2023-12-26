@@ -2,7 +2,7 @@
 
 ## Overview
 
-Job Application Tracker is a comprehensive web application designed to assist users in managing and monitoring their job applications through an intuitive Kanban-style board. The application leverages a robust tech stack, including Java with Spring Boot for the backend, featuring OAuth2 for authentication and JWT for secure communication. The frontend is powered by Next.js, Shadcn UI for styling, and React Query for efficient data fetching.
+Job Application Tracker is a comprehensive web application designed to assist users in managing and monitoring their job applications through an intuitive Kanban-style board. The application leverages a robust tech stack, including Java with Spring Boot for the backend, featuring OAuth2 for authentication and JWT for secure communication. The frontend is powered by Next.js, Tailwind CSS for styling, and React Query for efficient data fetching.
 ## Demo Video
 
 
@@ -16,8 +16,9 @@ Job Application Tracker is a comprehensive web application designed to assist us
   - PostgreSQL
 
 - **Frontend:**
+  - TypeScript
   - Next.js
-  - Shadcn UI
+  - Tailwind CSS
   - React Query
 
 ## Features
