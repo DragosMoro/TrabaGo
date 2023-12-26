@@ -1,0 +1,6 @@
+[submodule "trabago-backend"]
+	path = trabago-backend
+	url = ./trabago-backend
+[submodule "trabago-frontend"]
+	path = trabago-frontend
+	url = ./trabago-frontend
